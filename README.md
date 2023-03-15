@@ -1,2 +1,7 @@
-# TextCNN_Emotional_classification
-This is a project about my learning of TextCNN.This time is in my sophomore years.
+## TextCNN文本情感分类任务
+
+### 一、数据集介绍
+
+数据集为IMDB情感分析数据集（英文，二分类），其中训练集和测试集各有25000个样本，每个样本为一个文件。标签为积极和消极的样本数相同，均为12500个，每一个样本为一段影评。
+
+结构如下：
