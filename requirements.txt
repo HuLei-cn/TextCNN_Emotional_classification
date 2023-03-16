@@ -1,0 +1,8 @@
+# 本项目运行时的依赖包版本
+
+torch~=1.13.0
+pandas~=1.4.4
+utils~=1.0.1
+torchtext~=0.4.0
+numpy~=1.23.1
+matplotlib~=3.5.2
